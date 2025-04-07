@@ -1,5 +1,5 @@
 # Student Job Data Analysis
-Overview
+
 This project focuses on analyzing a student dataset to uncover insights about student skills, career interests, and academic performance. The dataset contains information on various attributes of students including their skills in programming languages (Python, SQL, Java), gender, GPA, major, projects, and future career interests.
 
 This repository includes SQL queries used for data cleaning and data exploration to answer important questions about the dataset.
