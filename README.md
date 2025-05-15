@@ -25,7 +25,8 @@ CREATE TABLE CSSTUDENT (
     Python VARCHAR(25),
     SQLProgramming VARCHAR(25),
     Java VARCHAR(25)
-); ```
+);
+ ```
 
 ### Sample Data Extraction
 You can view the first 10 rows of the dataset:
